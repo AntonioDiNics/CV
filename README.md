@@ -6,7 +6,7 @@
 - [Credits](#credits)
 
 ## Description
-This is my personal CV that is designed to show others my skills, experience, and general information about myself.
+This is my personal CV which is designed to show others my skills, experience, and general information about myself.
 It was created for a project during a software development course with HyperionDev.
 
 ## Installation
